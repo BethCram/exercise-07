@@ -11,6 +11,10 @@ nav {
     margin-right: .5em;
 }
 
+nav a {
+    color: white
+}
+
 #social-links {
     display: none;
 }
