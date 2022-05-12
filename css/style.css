@@ -35,7 +35,7 @@ footer {
 }
 
 /* screen width 598px or greater */
-@media(min-width:598) {
+@media(min-width:598px) {
 
     #hamburger-menu {
         display: none;
@@ -47,7 +47,7 @@ footer {
 }
 
 /* screen width 768px or greater */
-@media(min-width:768) {
+@media(min-width:768px) {
     body {
         background-image: url(../img/splash-md.jpg);
         background-position: center;
@@ -74,7 +74,7 @@ footer {
 }
 
 /* screen width 992px or greater */
-@media(min-width:992) {
+@media(min-width:992px) {
     body {
         background-image: url(../img/splash-lg.jpg);
 
@@ -94,7 +94,7 @@ footer {
 }
 
 /* screen width 1200px or greater */
-@media(min-width:1200) {
+@media(min-width:1200px) {
     body {
         background-image: url(../img/splash-xl.jpg);
     }
