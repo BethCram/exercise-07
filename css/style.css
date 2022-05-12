@@ -1,0 +1,49 @@
+
+/* mobile screens */
+body {
+    margin: .5rem;
+    background-color: #93b8d7;
+    color: white;
+}
+
+nav {
+    color: white;
+    font-size: 2.5rem;
+    margin-right: .5em;
+}
+#social-links {
+    display: none;
+}
+
+main {
+    text-align: center;
+    font-family: "kaushan script", fantasy;
+    margin-top: 23%vh;
+}
+
+h1 {
+    font-size: 4rem;
+}
+
+h2 {
+    font-size: 2rem;
+    margin-top: 2em;
+}
+
+footer {
+    display: none;
+}
+
+/* screen width 598px or greater */ 
+#hamburger-menu {
+    display: none;
+}
+#social-links {
+    display: block;
+}
+/* screen width 768px or greater */
+
+/* screen width 992px or greater */
+/* screen width 1200px or greater */
+
+
