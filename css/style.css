@@ -47,6 +47,8 @@ body {
     background-position: center;
     background-size: cover;
 }
+/* image height */
+
 html {
     height: 100%;
 }
@@ -63,6 +65,25 @@ footer {
     width: 300px;
 }
 /* screen width 992px or greater */
+body {
+    background-image: url(../img/splash-lg.jpg);
+    
+}
+
+nav {
+    font-size: 1.5rem;
+}
+
+h1 {
+    font-size: 5rem;
+}
+
+h2 {
+    font-size: 3rem;
+}
+
 /* screen width 1200px or greater */
 
-
+body {
+    background-image: url(../img/splash-xl.jpg);
+}
