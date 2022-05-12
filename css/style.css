@@ -42,7 +42,26 @@ footer {
     display: block;
 }
 /* screen width 768px or greater */
+body {
+    background-image: url(../img/splash-md.jpg);
+    background-position: center;
+    background-size: cover;
+}
+html {
+    height: 100%;
+}
 
+main {
+    text-shadow: 1px 1px #153c43;
+}
+
+footer {
+    display: block;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    width: 300px;
+}
 /* screen width 992px or greater */
 /* screen width 1200px or greater */
 
